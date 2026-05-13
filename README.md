@@ -1,1 +1,2 @@
-# crypto-market-analysis
+# Bitcoin & Crypto Market Research
+Independent research focused on Bitcoin
