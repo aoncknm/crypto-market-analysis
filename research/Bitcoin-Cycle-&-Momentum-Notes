@@ -1,0 +1,159 @@
+# Bitcoin Cycle & Momentum Notes
+
+## ROC Analysis
+
+### BTC Monthly ROC(12)
+
+#### 1. Historical ROC Bottoms
+
+The monthly ROC(12) indicator has dropped below `-69` only three times in Bitcoin’s history, and each occurrence aligned with a local market bottom:
+
+| Date          | ROC(12) Condition |
+| ------------- | ----------------- |
+| January 2015  | Below -69         |
+| December 2018 | Below -69         |
+| December 2022 | Below -69         |
+
+A possible 4-year cyclical structure can be observed here, potentially connected to Bitcoin’s halving cycle.
+
+If the same spacing continues:
+
+```text
+December 2022 + 4 years = December 2026
+```
+
+As of April 2026, monthly ROC(12) was approximately `-19`.
+
+---
+
+#### 2. ROC Values at New ATHs
+
+| BTC Price ATH | ROC Value |
+| ------------- | --------- |
+| $32           | 298066    |
+| $1242         | 9496      |
+| $19804        | 1331      |
+| $68997        | 189       |
+| $126219       | 56        |
+
+The scale of ROC expansion has consistently compressed over time.
+
+##### Decline Between ROC Peaks
+
+| Transition    | Decline |
+| ------------- | ------- |
+| 298066 → 9496 | -96.81% |
+| 9496 → 1331   | -85.98% |
+| 1331 → 189    | -85.80% |
+| 189 → 56      | -70.37% |
+| 56 → X        | Y       |
+
+One possible interpretation:
+
+```text
+Y ≥ -70.37%
+```
+
+If this compression trend continues, the next ROC peak could remain below `56`, potentially somewhere in the `10–30` range.
+
+> This is a pattern observation only, not a predictive model.
+
+---
+
+# Momentum Analysis
+
+## BTC Monthly Momentum(12)
+
+### Historical Momentum Structure
+
+| Local Momentum Peak | Peak Value | Post-Correction Low | Bottom Date   | Peak → Bottom |
+| ------------------- | ---------- | ------------------- | ------------- | ------------- |
+| June 2011           | 16.10      | -9.41               | June 2012     | -158.45%      |
+| November 2013       | 1193.23    | -825.91             | November 2014 | -169.22%      |
+| December 2017       | 12917.91   | -10195.97           | December 2018 | -178.93%      |
+| March 2021          | 52369.12   | -40861.82           | October 2022  | -178.03%      |
+| January 2025        | 59861.87   | -17900.78           | April 2026*   | -129.90%      |
+
+* Latest completed monthly candle at the time of writing.
+
+---
+
+## Hypotheses
+
+### Hypothesis 1
+
+The current `-129.90%` drawdown remains less severe than previous cycle lows.
+
+One possible interpretation is that the correction may still be incomplete.
+
+This is not evidence of continuation — only a structural observation.
+
+---
+
+### Hypothesis 2
+
+If prior cycle behavior repeats in a comparable form, the local Momentum bottom of the current correction could potentially fall somewhere in the:
+
+```text
+-66,000 to -80,000
+```
+
+This is not a statistical projection or quantitative model.
+
+It is only a rough assumption based on prior cycle structures.
+
+---
+
+## Sample Size Limitation
+
+Only `4` completed historical cycle observations exist in this dataset.
+
+Any conclusions derived from it should be treated with caution due to the extremely limited sample size.
+
+---
+
+## Momentum Expansion
+
+| Momentum Low → Next Peak | Expansion               |
+| ------------------------ | ----------------------- |
+| -9.41 → 1193.23          | +12780.45%              |
+| -825.91 → 12917.91       | +1664.08%               |
+| -10195.97 → 52369.12     | +613.63%                |
+| -40861.82 → 59861.87     | +246.50%                |
+| X → Y                    | Estimated +85% to +115% |
+
+Where:
+
+* `X` = future local Momentum bottom
+* `Y` = future local Momentum peak
+
+The `+85% to +115%` estimate is intuitive only and not mathematically derived.
+
+---
+
+# Moving Average (MA) Structure
+
+## Long-Term Moving Averages
+
+| Moving Average | First BTC Breakdown Below MA |
+| -------------- | ---------------------------- |
+| 4-Year MA      | January 2015                 |
+| 5-Year MA      | August 2015                  |
+| 6-Year MA      | November 2022                |
+| 7-Year MA      | Never broken so far          |
+
+As of April 2026, the 7-year MA was located near:
+
+```text
+~$45,000
+```
+
+---
+
+# Notes & Limitations
+
+* The dataset is extremely small.
+* Bitcoin has experienced only a handful of major macro cycles.
+* Similar historical structures do not guarantee future repetition.
+* Several interpretations above are speculative and should not be treated as forecasts.
+* This document reflects observational cycle analysis, not financial advice.
